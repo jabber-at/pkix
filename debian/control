@@ -1,0 +1,25 @@
+Source: erlang-p1-pkix
+Maintainer: Mathias Ertl <mati@jabber.at>
+Section: libs
+Priority: optional
+Build-Depends: debhelper (>= 11~),
+               dh-rebar,
+               erlang-base (>= 1:19.2),
+               erlang-crypto,
+               erlang-eunit,
+               erlang-syntax-tools
+Standards-Version: 4.1.4
+VCS-Git: https://github.com/jabber-at/pkix.git
+VCS-Browser: https://github.com/jabber-at/pkix
+Homepage: https://github.com/processone/pkix
+
+Package: erlang-p1-pkix
+Architecture: any
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         erlang-base (>= 1:19.2) | ${erlang-abi:Depends},
+         ${erlang:Depends}
+Description: PKIX certificates management library for Erlang
+ This library simplifies certificate configuration in Erlang programs.
+ The libraries in this package were written for ejabberd which still
+ uses them. 

@@ -1,0 +1,3 @@
+version=3
+opts="filenamemangle=s/.*\/v?(\d\S*)\.tar\.gz/erlang-p1-pkix_$1.tar.gz/" \
+  https://github.com/processone/pkix/releases .*/v?(\d\S*)\.tar\.gz
