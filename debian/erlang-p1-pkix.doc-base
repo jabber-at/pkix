@@ -1,5 +1,0 @@
-Document: erlang-p1-pkix
-Title: PKIX certificates management library
-Author: ProcessOne [web site: http://www.process-one.net]
-Abstract: This library simplifies certificate configuration in Erlang programs.
-Section: Programming
