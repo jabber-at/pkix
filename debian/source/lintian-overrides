@@ -1,2 +1,3 @@
 erlang-p1-pkix source: debian-watch-does-not-check-gpg-signature
+erlang-p1-pkix source: testsuite-autopkgtest-missing
 erlang-p1-pkix source: maintainer-upload-has-incorrect-version-number

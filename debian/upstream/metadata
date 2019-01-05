@@ -1,9 +1,9 @@
-Name: erlang-p1-pkix
-Bug-Database: https://github.com/processone/erlang-p1-pkix/issues
-Bug-Submit: https://github.com/processone/erlang-p1-pkix/issues/new
-Changelog: https://github.com/processone/erlang-p1-pkix/commits/master
-Repository: https://github.com/processone/erlang-p1-pkix.git
-Repository-Browse: https://github.com/processone/erlang-p1-pkix
+Name: pkix
+Bug-Database: https://github.com/processone/pkix/issues
+Bug-Submit: https://github.com/processone/pkix/issues/new
+Changelog: https://github.com/processone/pkix/commits/master
+Repository: https://github.com/processone/pkix.git
+Repository-Browse: https://github.com/processone/pkix
 Registration: https://github.com/join
 Contact: XMPP-MUC:ejabberd@conference.process-one.net
 Documentation: https://docs.ejabberd.im/

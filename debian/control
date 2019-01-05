@@ -1,5 +1,6 @@
 Source: erlang-p1-pkix
 Maintainer: Mathias Ertl <mati@jabber.at>
+XSBC-Original-Maintainer: Ejabberd Packaging Team <ejabberd@packages.debian.org>
 Section: libs
 Priority: optional
 Build-Depends: ca-certificates,
